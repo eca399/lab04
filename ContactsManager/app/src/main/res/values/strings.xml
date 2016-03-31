@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_additional_fields">Show additional Fields</string>
+    <string name="hide_additional_fields">Hide additional Fields</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="name_edit_text">Name</string>
+    <string name="email_edit_text">Email</string>
+    <string name="address_edit_text">Address</string>
+    <string name="phone_number_error">Phone number received from the intent is null!</string>
+</resources>
